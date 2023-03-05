@@ -382,6 +382,10 @@ for(int i = 0; i < 10; i++)
 }
 */
 
+/*
+Demo: Creating and Using Methods
+*/
+
 
 
 /*
